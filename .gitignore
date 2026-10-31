@@ -1,0 +1,63 @@
+# Environment and Secrets
+.env
+*.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+ai_service/.env
+
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Python & AI
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+ai_service/venv/
+ai_service/.venv/
+*.pt
+*.pth
+*.onnx
+*.bin
+ai_service/checkpoints/*.pt
+ai_service/data/raw/
+ai_service/data/processed/
+
+# Document Uploads & Temp
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/temp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Builds & Outputs
+dist/
+build/
+frontend/dist/
+.cache/
+.parcel-cache/
+
+# Testing & Coverage
+coverage/
+.nyc_output/
+.pytest_cache/
+
+# IDE & OS
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini

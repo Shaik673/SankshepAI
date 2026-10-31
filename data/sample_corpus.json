@@ -1,0 +1,49 @@
+[
+  {
+    "source": "The Ministry of Finance has issued Circular No. 14/2026 notifying all scheduled commercial banks regarding the updated priority sector lending targets. Under the revised guidelines, banks are mandated to allocate 40 percent of Adjusted Net Bank Credit (ANBC) to priority sectors, including micro, small, and medium enterprises (MSMEs), agriculture, and renewable energy. The new norms shall take effect from April 1, 2026, and all non-compliant institutions will be subject to penal interest levies as determined by the Reserve Bank of India.",
+    "target": "Ministry of Finance issued Circular 14/2026 requiring commercial banks to allocate 40% of ANBC to priority sectors like MSMEs and agriculture starting April 1, 2026."
+  },
+  {
+    "source": "The Department of Science and Technology announced the launch of the National Quantum Mission with an allocated budget of Rs. 6,003 crore over eight years. The initiative aims to seed, nurture, and scale up scientific and industrial R&D in quantum technologies. Four thematic hubs will be established across leading academic institutions in quantum computing, quantum communication, quantum sensing and metrology, and quantum materials and devices.",
+    "target": "Department of Science and Technology launched the Rs. 6,003 crore National Quantum Mission to establish four academic R&D hubs over eight years."
+  },
+  {
+    "source": "Deep neural sequence-to-sequence models with attention have emerged as the state of the art for abstractive summarization. Unlike extractive methods that select verbatim sentences, abstractive architectures generate novel paraphrases while preserving core semantic factualness. The Luong attention mechanism computes alignment scores between decoder states and encoder representations using dot product or general bilinear matrices, significantly reducing gradient vanishing over long input sequences.",
+    "target": "Abstractive sequence-to-sequence models with Luong attention generate novel summaries by aligning decoder states with encoder representations, outperforming extractive baselines."
+  },
+  {
+    "source": "Pursuant to Section 21 of the Information Technology Act, the Regulatory Authority has published draft cybersecurity guidelines for cloud service providers handling public sector data. All registered providers must implement multi-factor authentication, end-to-end encryption for data in transit, and maintain incident logs for a minimum retention duration of 180 days. Public comments on the draft guidelines may be submitted within thirty days from the date of publication.",
+    "target": "Regulatory Authority released draft cybersecurity rules requiring cloud providers to enforce MFA, encryption, and 180-day log retention for public sector data."
+  },
+  {
+    "source": "The Central Pollution Control Board reported a 15% decrease in particulate matter concentrations across major metropolitan corridors following the stringent enforcement of Phase-IV emission norms and the transition to electric bus transit. However, secondary ozone levels demonstrated an upward trend during peak afternoon sunlight hours, prompting authorities to mandate accelerated VOC reduction protocols for industrial manufacturing zones.",
+    "target": "CPCB observed a 15% decline in PM levels following emission norms and electric transit, though rising ozone levels require new VOC industrial reduction protocols."
+  },
+  {
+    "id": "item_1793473224290",
+    "title": "Official Notification 2026/08",
+    "category": "government_circular",
+    "source": "The Ministry has mandated 25% subsidies for renewable MSMEs under SIDBI monitoring.",
+    "target": "Ministry announced 25% renewable subsidies for MSMEs monitored by SIDBI.",
+    "addedAt": "2026-10-31T19:00:24.290Z",
+    "addedBy": "analyst_1793473191513@sankshep.gov.in"
+  },
+  {
+    "id": "item_1793473409056",
+    "title": "Official Notification 2026/08",
+    "category": "government_circular",
+    "source": "The Ministry has mandated 25% subsidies for renewable MSMEs under SIDBI monitoring.",
+    "target": "Ministry announced 25% renewable subsidies for MSMEs monitored by SIDBI.",
+    "addedAt": "2026-10-31T19:03:29.056Z",
+    "addedBy": "analyst_1793473384907@sankshep.gov.in"
+  },
+  {
+    "id": "item_1793473553221",
+    "title": "Official Notification 2026/08",
+    "category": "government_circular",
+    "source": "The Ministry has mandated 25% subsidies for renewable MSMEs under SIDBI monitoring.",
+    "target": "Ministry announced 25% renewable subsidies for MSMEs monitored by SIDBI.",
+    "addedAt": "2026-10-31T19:05:53.221Z",
+    "addedBy": "analyst_1793473524735@sankshep.gov.in"
+  }
+]
